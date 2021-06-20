@@ -13,5 +13,5 @@
 
 
 ## <span style="color: black; font-size: 24px">Здесь можно просмотреть как работает</span>
-https://nikitasmirnov1989.github.io/guess_the_field/
+http://NikitaSmirnov1989.github.io/pagination
 </span>
